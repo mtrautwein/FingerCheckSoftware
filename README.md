@@ -1,1 +1,3 @@
-# FingerCheck-Software
+# FingerCheckSoftware
+
+![](1.png)
