@@ -6,6 +6,7 @@ ________
 # Client Application
 ________
  
+ 
 
 The software requests an admin+password to see the data, all of this is protected by a hashing algorithm (file hashing.lua).
 
@@ -13,11 +14,13 @@ The software requests an admin+password to see the data, all of this is protecte
 ________
  
 
+
 The main interface with eah employee's data from the day. You can refresh to load the most recent data.
 
 ![](images/2.png)
 ________
  
+
 
 The graph view which shows all the data of one month. 
 
@@ -25,10 +28,12 @@ The graph view which shows all the data of one month.
 ________
  
 
+
 Time of first and last entry of this employee + general first and last entry of the day.
 
 ![](images/4.png)
 ________
+ 
  
 
 The ip of the server connected + all the data from the day.
